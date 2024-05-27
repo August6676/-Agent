@@ -3,8 +3,8 @@ import os
 import openai
 import backoff
 
-openai.api_key="sk-s3Lak9CT5BG3UFfh744b9c7e93D84b64B1F3835c067cD9A2"
-openai.api_base="https://apimini.site/v1"
+openai.api_key="your api key"
+openai.api_base="your base_url"
 
 st.set_page_config(
     page_title="匠心问答",
